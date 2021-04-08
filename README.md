@@ -14,4 +14,4 @@
 
 # Results
 
-[Click here to view the dashboard or continue below for a breakdown of each slide.]("https://public.tableau.com/profile/alex.forbis#!/vizhome/NYCitibikeStory_16178990414520/NYCitibikeStory")
+[Click here to view the dashboard or continue below for a breakdown of each slide.](https://public.tableau.com/profile/alex.forbis#!/vizhome/NYCitibikeStory_16178990414520/NYCitibikeStory)
