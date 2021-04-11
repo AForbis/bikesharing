@@ -15,7 +15,9 @@
 # Results
 [Click here to view the interactive Tableau story or continue below for a breakdown of each slide.](https://public.tableau.com/profile/alex.forbis#!/vizhome/NYCitibikeWorkbook_Final/NYCitibikeStory)
 
-   1) Dashboard #1: (a) Number of trips in August, (b) Number of trips by gender, (c) Number of trips by user type, (d) Number of trips per hour, and (e) Number of trips by location.
+   1) Dashboard #1: 
+   
+   (a) Number of trips in August, (b) Number of trips by gender, (c) Number of trips by customer type, (d) Number of trips per hour, and (e) Number of trips by location.
 
    ![db1.png](db1.png)
 
@@ -27,17 +29,30 @@
 
 
    2) Dashboard #2
+   
+   (a) Length of time bikes are checked out for all riders, and (b) Length of time bikes are checked out by gender.
 
    ![db2.png](db2.png)
 
-   Analysis...
+   - Most trips peaked at about 5 minutes and flattened out at about 45 minutes for all riders and across genders.
 
    3) Dashboard #3
+   
+   (a) Number of trips by weekday per hour, and (b) Number of user trips by gender by weekday.
     
    ![db3.png](db3.png)
 
-   Analysis...
+   - The highest number of morning trips were Thursdays between 8-9am. The highest number of afternoon trips were Thursdays between 5-7pm. 
+   - The highest number of trips came from male subscribers on Thursdays.
 
    4) Dashboard #4
+   
+   (a) This chart shows the number of trips by gender by weekday per hour.
 
    ![db4.png](db4.png)
+
+   - The highest number of morning trips were men on Thursdays between 8-9am. The highest number of afternoon trips were men on Thursdays between 5-7pm. 
+
+# Summary
+
+  - Summary of results... Additional visualizations to pursue...
