@@ -17,23 +17,23 @@
 
    1) Dashboard #1
 
-    ![Dashboard_1](db1.png)
+    ![db1.png](db1.png)
 
    Analysis...
 
 
    2) Dashboard #2
 
-    ![Dashboard_2](db2.png)
+    ![db2.png](db2.png)
 
    Analysis...
 
    3) Dashboard #3
     
-    ![Dashboard_3](db3.png)
+    ![db3.png](db3.png)
 
    Analysis...
 
    4) Dashboard #4
 
-    ![Dashboard_4](db4.png)
+    ![db4.png](db4.png)
