@@ -13,19 +13,27 @@
     4) Two or more additional visualizations from your previous analysis to bolster the presentation.
 
 # Results
-
 [Click here to view the interactive Tableau story or continue below for a breakdown of each slide.](https://public.tableau.com/profile/alex.forbis#!/vizhome/NYCitibikeWorkbook_Final/NYCitibikeStory)
 
-   1) asdf
-   
-   2) asdf
-   
-   3) asd
-   
-   4) asd
-   
-   5) asdf
-   
-   6) asd
-   
-   7) asdf
+   1) Dashboard #1
+
+    ![Dashboard_1](db1.png)
+
+   Analysis...
+
+
+   2) Dashboard #2
+
+    ![Dashboard_2](db2.png)
+
+   Analysis...
+
+   3) Dashboard #3
+    
+    ![Dashboard_3](db3.png)
+
+   Analysis...
+
+   4) Dashboard #4
+
+    ![Dashboard_4](db4.png)
