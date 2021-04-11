@@ -14,4 +14,18 @@
 
 # Results
 
-[Click here to view the dashboard or continue below for a breakdown of each slide.](https://public.tableau.com/profile/alex.forbis#!/vizhome/NYCitibikeStory_16178990414520/NYCitibikeStory)
+[Click here to view the interactive Tableau story or continue below for a breakdown of each slide.](https://public.tableau.com/profile/alex.forbis#!/vizhome/NYCitibikeWorkbook_Final/NYCitibikeStory)
+
+   1) asdf
+   
+   2) asdf
+   
+   3) asd
+   
+   4) asd
+   
+   5) asdf
+   
+   6) asd
+   
+   7) asdf
