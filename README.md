@@ -55,4 +55,4 @@
 
 # Summary
 
-  - Summary of results... Additional visualizations to pursue...
+  - The high-end summary is that the typical Citibike riders are male subscribers who ride for about 5 minutes, with peak riding occurring between 8-9am and 5-7pm. Additional visualizations to pursue might include: (a) breaking down the number of trips by age group, or (b) breaking out the subscribers/non-subscribers by age, gender, or location. 
