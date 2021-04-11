@@ -17,7 +17,7 @@
 
    1) Dashboard #1: 
    
-   (a) Number of trips in August, (b) Number of trips by gender, (c) Number of trips by customer type, (d) Number of trips per hour, and (e) Number of trips by location.
+        (a) Number of trips in August, (b) Number of trips by gender, (c) Number of trips by customer type, (d) Number of trips per hour, and (e) Number of trips by location.
 
    ![db1.png](db1.png)
 
@@ -30,7 +30,7 @@
 
    2) Dashboard #2
    
-   (a) Length of time bikes are checked out for all riders, and (b) Length of time bikes are checked out by gender.
+        (a) Length of time bikes are checked out for all riders, and (b) Length of time bikes are checked out by gender.
 
    ![db2.png](db2.png)
 
@@ -38,7 +38,7 @@
 
    3) Dashboard #3
    
-   (a) Number of trips by weekday per hour, and (b) Number of user trips by gender by weekday.
+        (a) Number of trips by weekday per hour, and (b) Number of user trips by gender by weekday.
     
    ![db3.png](db3.png)
 
@@ -47,7 +47,7 @@
 
    4) Dashboard #4
    
-   (a) This chart shows the number of trips by gender by weekday per hour.
+        (a) This chart shows the number of trips by gender by weekday per hour.
 
    ![db4.png](db4.png)
 
